@@ -1,2 +1,2 @@
 SELECT first_name
-   ...> FROM persons WHERE last_name LIKE 'Smith%';
+FROM persons WHERE last_name LIKE 'Smith%';
