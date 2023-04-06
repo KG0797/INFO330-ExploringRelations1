@@ -1,2 +1,2 @@
 UPDATE persons
-   ...> SET city ='Tulsa' WHERE city = 'Sacramento';
+SET city ='Tulsa' WHERE city = 'Sacramento';
